@@ -21,9 +21,10 @@ Datenquellen für Köln:
 
 geänderte Dateien für Köln:
 ============================================
-README.md
-package.json
-src/index.html
-data/locations.js
-data/mineralwaesser.js
-data/zones.js
+* README.md
+* package.json
+* src/index.html
+* src/data/locations.js
+* src/data/mineralwaesser.js
+* src/data/zones.js
+* unused files moved to: src/data/not used for Cologne version
