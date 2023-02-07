@@ -22,7 +22,8 @@ Datenquellen für Köln:
 geänderte Dateien für Köln:
 ============================================
 README.md
-index.html
+package.json
+src/index.html
 data/locations.js
 data/mineralwaesser.js
 data/zones.js
