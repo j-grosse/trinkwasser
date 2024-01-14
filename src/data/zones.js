@@ -26,6 +26,7 @@ tw.data.zones = {
     hardness: '14', // Summe Erdalkalien (Gesamthärte) 2,49 ± 0,19 mol/m³ entspricht 14,0 ± 1,0°dH (hart), Karbonathärte 10,0 ± 0,4 °dH
     year: '2023',
     description: 'Wasserwerke Höhenhaus und Urbach', //https://web.cdn.rheinenergie.com/cms/media/documents/trinkwasseranalyse/Trinkwasseranalyse_Koln-rechtsrheinisch-2020.pdf
+    // die 2020 muss im Dateinamen stehen. Es wird dann automatisch zur aktuellsten Version weitergeleitet.
   },
 };
 tw.data.averageValues = {
